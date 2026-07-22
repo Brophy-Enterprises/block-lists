@@ -3,6 +3,10 @@
 This repository builds consolidated, Pi-hole-compatible domain lists. Every
 directory containing a `sources.txt` gets its own generated `blocklist.txt`.
 
+## Slop Alert
+
+Entirely vibe coded and not reviewed. Use at your own risk
+
 ## Directory format
 
 For example, `focus/` contains:
