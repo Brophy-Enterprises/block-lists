@@ -1,0 +1,45 @@
+name: Build block lists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 13 * * 0"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-blocklists-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run parser tests
+        run: python -m unittest discover -s tests
+
+      - name: Build lists
+        run: python scripts/build_blocklists.py
+
+      - name: Commit changed lists
+        run: |
+          git add -- '**/blocklist.txt'
+          if git diff --cached --quiet; then
+            echo "Upstream lists have not changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update generated block lists"
+          git push

@@ -1,0 +1,27 @@
+# Add domains to block here, one per line. Common hosts and Adblock formats also work.
+
+# Blind
+static.teamblind.com
+teamblindstatics.s3.ap-northeast-1.amazonaws.com
+d2u3dcdbebyaiu.cloudfront.net
+d23sp3kzv1t6m5.cloudfront.net
+d23jbh7g9weemm.cloudfront.net
+uschat.blahfaw.com
+usnotifier.blahfaw.com
+choice.inmobi.com
+cmp.inmobi.com
+usapi.blahfaw.com
+
+# Craigslist
+api.craigslist.org
+rapi.craigslist.org
+sapi.craigslist.org
+images.craigslist.org
+images.g.craigslist.org
+www.g.craigslist.org
+www.craigslist.org
+
+# offerup
+videos.offerup.com
+images.offerup.com
+static.offerup.com
