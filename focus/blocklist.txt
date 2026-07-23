@@ -12681,6 +12681,7 @@ m.tr-tr.ph.fbjs.facebook.com
 m.tw.lite.facebook.com
 m.weixin.qq.comwww.operamini.new.facebook.com
 m.whatsapp.com
+m.youtube.com
 m.zh-hk.fr-fr.prod.facebook.com
 m11.fbjs.facebook.com
 m2.facebook.com
@@ -45996,6 +45997,7 @@ www.wwww.lite.facebook.com
 www.wwww.msn.messenger.com
 www.wwwwwwww.beta.facebook.com
 www.your.fb.com
+www.youtube.com
 www.zero.lite.facebook.com
 www.zh-cn.af-za.ro-ro.fbjs.facebook.com
 www.zh-cn.ar-ar.fbjs.facebook.com
@@ -46279,6 +46281,7 @@ yellowfevervaccine.lm.prod.facebook.com
 yes.messenger.com
 ynap.facebook.com
 yogalayout.com
+you.tube
 your.fb.com
 yourbusinessstory.fb.com
 yraph.fb.me
