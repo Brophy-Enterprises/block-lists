@@ -25,3 +25,9 @@ www.craigslist.org
 videos.offerup.com
 images.offerup.com
 static.offerup.com
+
+# youtube
+www.youtube.com
+m.youtube.com
+you.tube
+
