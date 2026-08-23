@@ -14402,6 +14402,7 @@ p16-tiktok-livestudio-asset-sg.ibyteimg.com
 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com
 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
 p16-tiktok-va.ibyteimg.com
+p16-tiktok-web-ads-sg.ibyteimg.com
 p16-tiktokcdn-com.akamaized.net
 p5l6t64b4p048l0czf.ar.ar.lite.facebook.com
 pa-in.af-za.ro-ro.fbjs.facebook.com
@@ -39647,6 +39648,7 @@ redd.it
 reddit.com
 redditmail.com
 redditmedia.com
+redditstatic.com
 redirector-pay.fbjs.facebook.com
 redirectvirusgoogle.cinyour.facebook.com
 redkix.com
