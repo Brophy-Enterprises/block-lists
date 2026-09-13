@@ -39830,9 +39830,7 @@ ro-ro.zh.lite.facebook.com
 ro-ro.zh.tw.lite.facebook.com
 ro.fbjs.facebook.com
 ro.messenger.com
-rocksdb.com
 rocksdb.net
-rocksdb.org
 rollenspiel.social
 roslin.autodiscover.oculusvr.com
 rossgram.ru
