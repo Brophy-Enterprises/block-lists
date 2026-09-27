@@ -14402,7 +14402,6 @@ p16-tiktok-live-smb-fe-sg.ibyteimg.com
 p16-tiktok-livestudio-asset-sg.ibyteimg.com
 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com
 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
-p16-tiktok-va.ibyteimg.com
 p16-tiktok-web-ads-sg.ibyteimg.com
 p16-tiktokcdn-com.akamaized.net
 p5l6t64b4p048l0czf.ar.ar.lite.facebook.com
